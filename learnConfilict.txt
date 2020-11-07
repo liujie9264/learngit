@@ -1,2 +1,2 @@
 Creating branch is quick AND simple.
-conflict from learnGitRebase.
+from master.
