@@ -1,1 +1,2 @@
 I am learning git reflog.
+该命令可以查看操作历史记录。
